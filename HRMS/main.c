@@ -3,6 +3,6 @@
 int main() 
 {
 	printf("Welcome to the HRMS System\n");
-	printf("test");
+	printf("testtest");
 	return 0;
 }

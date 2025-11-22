@@ -4,5 +4,6 @@ int main()
 {
 	printf("Welcome to the HRMS System\n");
 	printf("testtesttest");
+	printf("test");
 	return 0;
 }

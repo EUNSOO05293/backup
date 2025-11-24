@@ -19,10 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\jmk54\OneDrive\Desktop\test\Project1\Project1\login.c" />
-    <ClCompile Include="C:\Users\jmk54\OneDrive\Desktop\test\Project1\Project1\menu.c" />
-    <ClCompile Include="C:\Users\jmk54\OneDrive\Desktop\test\Project1\Project1\ui.c" />
+    <ClCompile Include="login.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="menu.c" />
+    <ClCompile Include="ui.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h" />

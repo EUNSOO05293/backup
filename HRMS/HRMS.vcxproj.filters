@@ -18,13 +18,13 @@
     <ClCompile Include="main.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\jmk54\OneDrive\Desktop\test\Project1\Project1\login.c">
+    <ClCompile Include="login.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\jmk54\OneDrive\Desktop\test\Project1\Project1\menu.c">
+    <ClCompile Include="menu.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="C:\Users\jmk54\OneDrive\Desktop\test\Project1\Project1\ui.c">
+    <ClCompile Include="ui.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

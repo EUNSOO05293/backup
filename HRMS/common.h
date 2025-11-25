@@ -38,4 +38,7 @@ int login_process(User* login_user); // 로그인 처리
 // menu.c (메인 메뉴)
 void show_main_menu(User* user);    // 메인 메뉴 (직원/관리자 분기)
 
+// employee_info.c (직원 정보 조회-안도혁)
+void show_employee_info_menu(User* user); // 1. 내 정보 / 직원 조회 메뉴
+
 #endif

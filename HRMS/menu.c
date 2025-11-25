@@ -78,7 +78,8 @@ void show_main_menu(User* user)
                     else // 직원: 1. 내 정보 / 직원 조회
                     {
                         printf(">> [직원] 내 정보 / 직원 조회 기능 실행  ");
-                        //여기다가 작업
+                        Sleep(1000);
+                        show_employee_info_menu(user); //작업자 안도혁
                     }
                     break;
 

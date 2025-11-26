@@ -85,7 +85,8 @@ void show_main_menu(User* user)
 
                 case 8: // 공통: 2. 근태 관리
                     printf(">> [공통] 근태 관리 기능 실행            ");
-                    //여기다가 작업
+                    Sleep(700);
+                    attendance_menu(user); // 근태 관리 연결
                     break;
 
                 case 10: // 관리자: 3. 급여 관리

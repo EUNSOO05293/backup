@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="attendance.c" />
     <ClCompile Include="employee_info.c" />
     <ClCompile Include="login.c" />
     <ClCompile Include="main.c" />
@@ -27,6 +28,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="common.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Attendance.txt" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
